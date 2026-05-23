@@ -4,7 +4,7 @@
 
 # [[高中词汇词族索引-001-010\|高中词汇词族索引-001-010]]
 
-## [[Family-001-A\|Family-001-A]]
+## 001 [[维克多/01_词族详情/Family-A\|Family-A]]
 - **词族起源**: 无明确词根，不定冠词，源自古英语 an。
 - **关联词族**: 无
 - ==【核心成员 Core】==
@@ -19,8 +19,7 @@
 - ==【易混辨析 & 写作句型】==
     - **易混点**: a/an 取决于后面单词的**发音**而非首字母。元音音素前用 an，辅音音素前用 a。常见特例：an hour, an honest man；a university, a one-way street。
     - **写作句型**: 无
-
-## [[Family-002-Abandon\|Family-002-Abandon]]
+## 002 [[Family-Abandon\|Family-Abandon]]
 - **词族起源**: a- (离开) + bandon (控制/命令) = 放弃控制 → 抛弃
 - **关联词族**: 无
 - ==【核心成员 Core】==
@@ -38,6 +37,212 @@
 - ==【易混辨析 & 写作句型】==
     - **易混点**: `abandon` (彻底放弃，常含不负责任意味) vs `desert` (抛弃背离职责/亲人) vs `quit` (辞职/戒掉，中性)
     - **写作句型**: *He abandoned himself to despair.* (他陷入了绝望。) 适用于续写/书面表达情绪描写。
+## 003 [[Family-Able\|Family-Able]]
+- **词族起源**: 词根 -abil- (能干) + -able 形容词后缀 = 有能力的
+- **关联词族**: [[Family-Enable\|Family-Enable]], [[Family-Disable\|Family-Disable]]
+- ==【核心成员 Core】==
+    - **[[able\|able]]**: (词频: ⭐⭐⭐⭐⭐)
+        - adj.: /ˈeɪbl/ - 能 [反 unable]；有能力的
+        - **考点/注意**: `be able to do sth` 能够做某事
+    - **[[ability\|ability]]**: (词频: ⭐⭐⭐⭐⭐)
+        - n.: /əˈbɪləti/ - 能力 [反 inability]；才能
+        - **考点/注意**: `to the best of one's ability` (竭尽全力)
+- ==【卫星全家桶 Satellites】==
+    - **[[ably\|ably]]**:
+        - adv.: /ˈeɪbli/ - 能干地；巧妙地
+        - **考点/注意**: [副词] 修饰动词
+    - **[[able-bodied\|able-bodied]]**:
+        - adj.: /ˌeɪbl ˈbɒdid/ - 体格健全的；强壮的
+        - **考点/注意**: [合成词] *able-bodied adults*
+    - **[[inability\|inability]]**:
+        - n.: /ˌɪnəˈbɪləti/ - 无能；无力
+        - **考点/注意**: [反义词] `inability to do sth`
+    - **[[enable\|enable]]**:
+        - vt.: /ɪˈneɪbl/ - 使能够；使成为可能 (allow)
+        - **考点/注意**: [前缀 en-] `enable sb to do sth`
+    - **[[disable\|disable]]**:
+        - vt.: /dɪsˈeɪbl/ - 使丧失能力；使伤残；使不能运转
+        - **考点/注意**: [前缀 dis-]
+    - **[[disabled\|disabled]]**:
+        - adj.: /dɪsˈeɪbld/ - 丧失能力的；残疾的；不能运转的
+        - **考点/注意**: [分词形容词] `the disabled` (残疾人)
+    - **[[disability\|disability]]**:
+        - n.: /ˌdɪsəˈbɪləti/ - 残疾(状态)；缺陷；障碍
+        - **考点/注意**: [名词后缀 -ity]
+    - **[[unable\|unable]]**:
+        - adj.: /ʌnˈeɪbl/ - (不用于名词前) 无能力(做某事)的 [反 able]
+        - **考点/注意**: [前缀 un-] `unable to do sth`
+    - **[[disablement\|disablement]]** (拓展):
+        - n. [U]: /dɪsˈeɪblmənt/ - 失能；伤残
+        - **考点/注意**: [名词后缀 -ment]
+    - **[[disabling\|disabling]]** (拓展):
+        - adj.: /dɪsˈeɪblɪŋ/ - 使丧失能力的；致残的
+        - **考点/注意**: [现在分词作形容词]
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `able` (后接不定式) vs `capable` (后接 `of`)：*She is able to finish* / *She is capable of finishing*。
+    - **写作句型**: `enable sb to do sth` 是高频结构，可替换 `let/make sb do sth`，更正式。
+## 004 [[Family-Abnormal\|Family-Abnormal]]
+- **词族起源**: ab- (离开) + normal (正常) = 偏离正常 → 反常的
+- **关联词族**: [[Family-Normal\|Family-Normal]]
+- ==【核心成员 Core】==
+    - **[[abnormal\|abnormal]]**: (词频: ⭐⭐⭐)
+        - adj.: /æbˈnɔːml/ - 不正常的；异常的；反常的 [反 normal]
+        - **考点/注意**: [前缀 ab-] 常用于医学或心理学语境。*abnormal behavior*
+- ==【卫星全家桶 Satellites】==
+    - **[[abnormality\|abnormality]]**:
+        - n.: /ˌæbnɔːˈmæləti/ - 异常；反常；畸形
+        - **考点/注意**: [名词后缀 -ity]
+    - **[[normal\|normal]]**:
+        - adj.: /ˈnɔːml/ - 正常的 [反 abnormal]；平常的；一般的
+        - n. [U]: /ˈnɔːml/ - 正常；常态
+        - **考点/注意**: `return to normal` (恢复正常)；`normal temperature`
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `abnormal` (病态反常，语气强) vs `unusual` (不寻常，中性)。*It's abnormal to sleep 16 hours a day* vs *It's unusual to see snow in May*。
+    - **写作句型**: 无
+## 005 [[Family-Aboard\|Family-Aboard]]
+- **词族起源**: a- (在...上) + board (甲板/板) = 在船上/飞机上
+- **关联词族**: [[Family-Board\|Family-Board]]
+- ==【核心成员 Core】==
+    - **[[aboard\|aboard]]**: (词频: ⭐⭐)
+        - prep.: /əˈbɔːd/ - 在船/车/飞机上；上船/车/飞机
+        - adv.: /əˈbɔːd/ - 在船/车/飞机上；上船/车/飞机
+        - **考点/注意**: 熟词僻义。`Welcome aboard!` (欢迎加入！)；`All aboard!` (请大家上车/船！)
+- ==【卫星全家桶 Satellites】==
+    - *本词族暂无派生词*
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `aboard` (在交通工具上) vs `abroad` (在国外) vs `board` (木板/登机)。*He went aboard the plane* / *He went abroad to study*。
+    - **写作句型**: 无
+## 006 [[Family-Absent\|Family-Absent]]
+- **词族起源**: ab- (离开) + sent (存在) = 不在场 → 缺席
+- **关联词族**: [[Family-Present\|Family-Present]]
+- ==【核心成员 Core】==
+    - **[[absent\|absent]]**: (词频: ⭐⭐⭐⭐)
+        - adj.: /ˈæbsənt/ - 缺席的；缺乏的 [反 present]；心不在焉的
+        - prep.: /ˈæbsənt/ - (正式) 无；没有 (without)
+        - vt.: /æbˈsent/ - (正式) 使缺席/离开
+        - **考点/注意**: `be absent from` (缺席)；`absent oneself from` (使缺席)
+    - **[[absence\|absence]]**: (词频: ⭐⭐⭐⭐)
+        - n.: /ˈæbsəns/ - 缺席 [反 presence]；缺乏
+        - **考点/注意**: `in the absence of` (缺乏；没有)
+- ==【卫星全家桶 Satellites】==
+    - **[[absent-minded\|absent-minded]]**:
+        - adj.: /ˌæbsənt ˈmaɪndɪd/ - 心不在焉的；健忘的 (forgetful)
+        - **考点/注意**: [合成词] `-minded` 后缀表示“头脑...的”
+    - **[[absentee\|absentee]]**:
+        - n. [C]: /ˌæbsənˈtiː/ - 缺席者；缺勤者
+        - **考点/注意**: [后缀 -ee 表示人]
+    - **[[absently\|absently]]**:
+        - adv.: /ˈæbsəntli/ - 心不在焉地；出神地
+        - **考点/注意**: [副词]
+    - **[[present\|present]]** (对比词):
+        - adj.: /ˈpreznt/ - 在场的 [反 absent]；目前的
+        - **考点/注意**: 注意作动词时读 /prɪˈzent/
+    - **[[presence\|presence]]**:
+        - n.: /ˈprezns/ - 出席；到场；存在 [反 absence]
+        - **考点/注意**: `in the presence of` (在……面前)
+    - **[[presently\|presently]]**:
+        - adv.: /ˈprezntli/ - 现在；马上
+        - **考点/注意**: [副词]
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `absent` vs `present` 反义关系。`absent` 也表“心不在焉”：*an absent look*。`in the absence of evidence` (缺乏证据时)。
+    - **写作句型**: `in the absence of` 是正式表达，相当于 `without`，用于议论文。
+## 007 [[Family-Absolute\|Family-Absolute]]
+- **词族起源**: ab- (离开) + solute (松开) = 完全松开 → 绝对的
+- **关联词族**: 无
+- ==【核心成员 Core】==
+    - **[[absolute\|absolute]]**: (词频: ⭐⭐⭐⭐)
+        - adj.: /ˈæbsəluːt/ - 完全的；绝对的；确实的
+        - n. [C]: /ˈæbsəluːt/ - 绝对(指思想或原理)
+        - **考点/注意**: `absolute silence` (万籁俱寂)；`absolute proof` (确凿证据)
+- ==【卫星全家桶 Satellites】==
+    - **[[absolutely\|absolutely]]**:
+        - adv.: /ˈæbsəluːtli/ - 完全地；绝对地；(用于强调) 确实地
+        - **考点/注意**: 口语常用 `Absolutely!` 表示强烈赞同；`Absolutely not!` 坚决否定。
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `absolute` (无条件，语气最强) vs `complete` (完整无缺) vs `thorough` (彻底细致)。*absolute power* vs *complete set* vs *thorough cleaning*。
+    - **写作句型**: `It is absolutely vital/essential that...` (……绝对必要)。
+## 008 [[Family-Absorb\|Family-Absorb]]
+- **词族起源**: ab- (离开) + sorb (吸收) = 吸收进去
+- **关联词族**: 无
+- ==【核心成员 Core】==
+    - **[[absorb\|absorb]]**: (词频: ⭐⭐⭐⭐)
+        - vt.: /əbˈsɔːb, əbˈzɔːb/ - 吸收；吸纳；吸引；理解；掌握 (take in)；消减；缓冲；耗费；承受
+        - **考点/注意**: `be absorbed in` (全神贯注于)；`absorb knowledge` (吸收知识)
+- ==【卫星全家桶 Satellites】==
+    - **[[absorbed\|absorbed]]**:
+        - adj.: /əbˈzɔːbd/ - 全神贯注的
+        - **考点/注意**: [分词形容词] `be absorbed in doing sth`
+    - **[[absorbing\|absorbing]]**:
+        - adj.: /əbˈzɔːbɪŋ/ - 十分吸引人的
+        - **考点/注意**: [现在分词作形容词] *an absorbing book*
+    - **[[self-absorbed\|self-absorbed]]**:
+        - adj.: /ˌself əbˈzɔːbd/ - 只顾自己的
+        - **考点/注意**: [合成词] 贬义
+    - **[[absorber\|absorber]]**:
+        - n. [C]: /əbˈzɔːbə/ - 吸收器/体/剂；(汽车)减震器
+        - **考点/注意**: [后缀 -er]
+    - **[[absorbable\|absorbable]]**:
+        - adj.: /əbˈzɔːbəbl/ - 可(被身体)吸收的
+        - **考点/注意**: [后缀 -able]
+    - **[[absorption\|absorption]]**:
+        - n. [U]: /əbˈzɔːpʃn/ - 吸收；吸纳；全神贯注
+        - **考点/注意**: [名词后缀 -tion]
+    - **[[absorbance\|absorbance]]**:
+        - n. [U] & [C]: /əbˈzɔːbəns/ - (光)吸收度；吸光度
+        - **考点/注意**: [术语]
+    - **[[absorbent\|absorbent]]**:
+        - adj.: /əbˈzɔːbənt/ - 易吸收(液体等)的
+        - **考点/注意**: [后缀 -ent] *absorbent cotton*
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `absorb` (吸收进入内部) vs `adsorb` (吸附于表面，不考)。重点掌握 `be absorbed in`。
+    - **写作句型**: `be absorbed in` 是高频短语，表示“全神贯注于”，后接名词或动名词。*He was absorbed in reading.*
+## 009 [[Family-Abstract\|Family-Abstract]]
+- **词族起源**: abs- (离开) + tract (拉) = 从具体中拉出来 → 抽象
+- **关联词族**: [[Family-Concrete\|Family-Concrete]]
+- ==【核心成员 Core】==
+    - **[[abstract\|abstract]]**: (词频: ⭐⭐⭐)
+        - adj.: /ˈæbstrækt/ - 抽象的 [反 concrete]；抽象派的
+        - n. [C]: /ˈæbstrækt/ - ① 抽象派作品 ② 摘要；概要
+        - vt.: /æbˈstrækt/ - (正式) 抽取；提炼；写摘要
+        - **考点/注意**: `in the abstract` (抽象地；理论上)；`abstract art` (抽象艺术)
+- ==【卫星全家桶 Satellites】==
+    - **[[abstracted\|abstracted]]**:
+        - adj.: /æbˈstræktɪd/ - (正式) 出神的；心不在焉的
+        - **考点/注意**: [分词形容词] *an abstracted look*
+    - **[[abstraction\|abstraction]]**:
+        - n.: /æbˈstrækʃn/ - 抽象(概念)；抽取；[U] 出神
+        - **考点/注意**: [名词后缀 -tion]
+    - **[[abstractionism\|abstractionism]]**:
+        - n. [U]: /æbˈstrækʃənɪzəm/ - 抽象主义；抽象派艺术
+        - **考点/注意**: [后缀 -ism]
+    - **[[concrete\|concrete]]** (对比词):
+        - adj.: /ˈkɒŋkriːt/ - 具体的 [反 abstract]；有形的；混凝土制的
+        - n. [U]: /ˈkɒŋkriːt/ - 混凝土
+        - **考点/注意**: `concrete evidence` (确凿证据)；`concrete proposal` (具体建议)
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `abstract` (抽象，如 love, beauty) vs `concrete` (具体，如 table, car)。写作中注意 `in the abstract` 意为“理论上”。
+    - **写作句型**: `in the abstract` 用于引出理论讨论。*We need to consider the problem in the abstract.*
+## 010 [[Family-Abuse\|Family-Abuse]]
+- **词族起源**: ab- (偏离) + use (使用) = 偏离正常使用 → 滥用
+- **关联词族**: 无
+- ==【核心成员 Core】==
+    - **[[abuse\|abuse]]**: (词频: ⭐⭐⭐⭐)
+        - vt.: /əˈbjuːz/ - 滥用；虐待；辱骂
+        - n. [U] & [C]: /əˈbjuːs/ - 滥用；[U] 虐待；辱骂
+        - **考点/注意**: 注意动词与名词发音不同（/z/ vs /s/）。`abuse of power` (滥用职权)；`drug abuse` (吸毒)
+- ==【卫星全家桶 Satellites】==
+    - **[[abusive\|abusive]]**:
+        - adj.: /əˈbjuːsɪv/ - 虐待的；侮辱性的
+        - **考点/注意**: [后缀 -ive] *abusive language* (辱骂性语言)
+    - **[[abuser\|abuser]]**:
+        - n. [C]: /əˈbjuːzə/ - 滥用者；施虐者
+        - **考点/注意**: [后缀 -er]
+    - **[[disabuse\|disabuse]]**:
+        - vt.: /ˌdɪsəˈbjuːz/ - (正式) 使摒弃错误想法；使省悟
+        - **考点/注意**: [前缀 dis-] `disabuse sb of sth`
+- ==【易混辨析 & 写作句型】==
+    - **易混点**: `abuse` (恶意滥用、虐待，语气强) vs `misuse` (错用、误用，不一定有恶意)。*child abuse* (虐待儿童) vs *misuse of a word* (用词不当)。
+    - **写作句型**: `abuse of power` (滥用职权) 是常见于议论文的搭配。
 
 ---
-已严格按照【二级无序列表+高亮标签、无空行、无Callout】的钢铁模板输出第001-002词族。请验证格式是否符合预期。确认后我将继续输出第003-010词族。
+第001-010词族已按最新模板（序号前置、二级标题、紧凑无空行）输出完毕。请验证格式。确认后我将继续输出第011-020词族。
