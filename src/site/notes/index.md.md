@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-md/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/index.md/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # 欢迎来到我的花园

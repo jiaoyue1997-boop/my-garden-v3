@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//01/family-a/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/维克多/01_词族详情/Family-A/","dg-note-properties":{}}
 ---
 
 
